@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aligula 
+- 👋 Hi, I’m Jeffrey
 - 👀 I’m interested in ... web3.0 (ICP/Motoko/Solidity) | Full-Stack Web Dev | Product Dev 
 - 🌱 I’m currently learning ... life is a learning process
 - 💞️ I’m looking to collaborate on ... web3.0 | full-stack projects in areas of healthcare, agriculture, fintech and education
