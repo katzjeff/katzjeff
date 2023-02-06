@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jeffrey
-- 👀 I’m interested in ... web3.0 (ICP/Motoko/Solidity) | Full-Stack Web Dev | Product Dev 
+- 👀 I’m interested in ... full-stack mern/mean | web3.0 | prod dev
 - 🌱 I’m currently learning ... life is a learning process
-- 💞️ I’m looking to collaborate on ... web3.0 | full-stack projects in areas of healthcare, agriculture, fintech and education
-- 📫 How to reach me ...aligula.jeff@aligulagk.com
+- 💞️ I’m looking to collaborate on ... full-stack solutions that add value to users in Agritech, Education and Healthcare
+- 📫 How to reach me ...aligula.jeff@gmail.com
 
 <!---
 katzjeff/katzjeff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
